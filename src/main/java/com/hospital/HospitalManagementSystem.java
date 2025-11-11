@@ -71,7 +71,7 @@ class InsuredPatient extends Patient implements Insurance {
 
 // ---------------- MongoDB Connection ----------------
 class MongoDBConnection {
-    private static final String CONNECTION_STRING = "mongodb+srv://induc346_db_user:Tarun9988@cluster0.wfqzcxv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+    private static final String CONNECTION_STRING = "mongodb+srv://Your_user:<Password>@cluster0.wfqzcxv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
     private static final String DB_NAME = "HospitalDB";
     private static final String PATIENTS_COLLECTION = "patients";
     private static final String COUNTERS_COLLECTION = "counters";
