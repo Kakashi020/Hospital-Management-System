@@ -13,6 +13,6 @@ Its A GUI so we can Change it to JAV file download it and run anywhere where it
 supports 
 
 If you just want to use it use this Link below -->
-JAV APPLICATION DRIVE LINK :
+JAVA APPLICATION DRIVE LINK :
 
 -->[https://drive.google.com/drive/folders/1zJWtxXsNpjisuepsSJTF3HFwi4XB81Lz?usp=sharing]
